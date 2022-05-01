@@ -8,7 +8,7 @@
 
 ### ![alt text](stockdata.PNG)
 
-### ![alt text](Stock Analysis results.PNG) 
+### ![alt text](StockAnalysisResults.PNG) 
 
 ### ![alt text] -speed screenshot
 ### ![alt text] - speed screenshot
