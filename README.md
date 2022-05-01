@@ -6,12 +6,15 @@
 
 ## **Results**
 
+##### Data provided to analyize 12 stocks. 
 ### ![alt text](stockdata.PNG)
-### ![alt text] -code
-### ![alt text] - refactored code
+##### Original code 
+### ![alt text](StockDataCode.PNG)
+##### Refactored code
+### ![alt text] 
 ### ![alt text](StockAnalysisResults.PNG) 
-### ![alt text] -speed screenshot
-### ![alt text] - speed screenshot
+### ![alt text] -speed screenshot Refactored
+### ![alt text] - speed screenshot Refactored
 The analysis is well described with screenshots and code (4 pt).
 
 ## **Summary**
