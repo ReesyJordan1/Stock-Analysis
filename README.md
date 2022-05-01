@@ -17,7 +17,11 @@
 
 ## **Results**
 
-![alt text](StockAnalysisResults.PNG) replace
+#####I found that DAQO (DQ) would not be a solid investment. 
+
+![alt text](VBA_Challenge_2017.PNG)
+
+![alt text](VBA_Challenge_2018.PNG)
 
 ---
 ## **Summary**
