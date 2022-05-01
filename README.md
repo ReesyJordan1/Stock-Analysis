@@ -8,7 +8,8 @@
 
 ### ![alt text](stockdata.PNG)
 
-### ![alt text]
+### ![alt text](Stock Analysis results.PNG) 
+
 ### ![alt text] -speed screenshot
 ### ![alt text] - speed screenshot
 The analysis is well described with screenshots and code (4 pt).
