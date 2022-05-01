@@ -13,8 +13,9 @@
 ##### Refactored code
 ### ![alt text] 
 ### ![alt text](StockAnalysisResults.PNG) 
-### ![alt text] -speed screenshot Refactored
-### ![alt text] - speed screenshot Refactored
+### ![alt text](2017runtimerefactored.PNG) 
+### ![alt text](2018runtimerefactored.PNG)
+### ![alt text] - speed screenshot original code
 The analysis is well described with screenshots and code (4 pt).
 
 ## **Summary**
