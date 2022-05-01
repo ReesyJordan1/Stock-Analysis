@@ -2,21 +2,24 @@
 
 ## **Overview of Project**
 
-##### As VBA is often used in the financial industry, I used nested loops in VBA to analyze alternative energy stocks and automate calculations. My objective was to find out if the manufacturer of silicon wafer panels, DAQO(DQ) is a good investment choice for my friend's parents. After running my analysis, I refactored the code to make it more efficient. 
+##### As VBA is often used in the financial industry, I used nested loops in VBA to analyze alternative energy stocks and automate the calculations. My objective was to find out if the manufacturer of silicon wafer panels, DAQO(DQ) is a good investment choice for my friend's parents. After running my analysis, I refactored the code to make it more efficient. 
 
 ## **Results**
 
-##### Data provided to analyize 12 stocks. 
+##### I used data from  12 stocks to analyze their starting price, ending price and volume to calculate the return. 
 ### ![alt text](stockdata.PNG)
-##### Original code 
+
+
+##### In my original code, I looped through each row and each ticker to find the starting price, ending price and volume. Then output results on a table on a separate sheet.  
 ### ![alt text](StockDataCode.PNG)
 ##### ![alt text](StockAnalysisResults.PNG) 
+##### ![alt text](2017originalcodetime.PNG)   ![alt text](2018originalcodetime.PNG)
 
-##### Refactored code
+
+##### In my refactored code, I created and looped through arrays to find the starting price, ending price and volume. Then output results on a table on a separate sheet.  
 ### ![alt text](Coderefactured.PNG) 
 ### ![alt text](2017runtimerefactored.PNG)  ![alt text](2018runtimerefactored.PNG)  
-### ![alt text] - speed screenshot original code
-The analysis is well described with screenshots and code (4 pt).
+
 
 ## **Summary**
 
