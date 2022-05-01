@@ -15,7 +15,7 @@
 
 ![alt text](StockAnalysisResults.PNG)
 
-![alt text](2017originalcodetime.PNG)   ![alt text](2018originalruntimenew.PNG) 
+![alt text](2017originalcodetimenew.PNG)   ![alt text](2018originalruntimenew.PNG) 
 
 ##### In my refactored code, I created and looped through arrays to find the starting price, ending price and volume. Then output results on a table on a separate sheet.  
 ![alt text](Coderefactured.PNG) 
@@ -25,10 +25,10 @@
 ---
 ## **Summary**
 
-##### Refactoring code is the process of taking existing code and editing it without changing the function of the code.  Refactoring is useful and sometimes necessary to clean up the original code to make it more efficient to use in the future.   There are also disadvantages to refactoring code. In my case, after I refactored my code to analyse the stocks, I found many mistakes and errors.  It took a lot of time and testing. After refactoring the code, I noticed the timer returned a negative value. I tried replacing my formula with <SecondsElapsed = Round(Timer - StartTime, 2)>.  It didnt change anything. 
+##### Refactoring code is the process of taking existing code and editing it without changing the function of the code.  Refactoring is useful and sometimes necessary to clean up the original code to make it more efficient to use in the future.   There are also disadvantages to refactoring code. In my case, after I refactored my code to analyse the stocks, I found many mistakes and errors.  It took a lot of time and testing. After refactoring the code, I noticed the code took less time to run.  
 ##### **Advantages**
 - ##### Make it easier to understand for the next developer to use
-- ##### Create a better quality code that is more maintainable, in case you want to add to it. 
+- ##### Create a faster and better quality code that is more maintainable, in case you want to add to it. 
 - ##### Calculations may take less time to run 
  
 ##### **Disadvantages**
