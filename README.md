@@ -15,7 +15,7 @@
 
 ![alt text](StockAnalysisResults.PNG)
 
-![alt text](2017originalcodetime.PNG)   ![alt text](2018originalcodetime.PNG)
+![alt text](2017originalcodetime.PNG)   
 
 ##### In my refactored code, I created and looped through arrays to find the starting price, ending price and volume. Then output results on a table on a separate sheet.  
 ![alt text](Coderefactured.PNG) 
