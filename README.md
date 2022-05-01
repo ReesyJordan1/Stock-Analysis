@@ -5,7 +5,9 @@
 ##### As VBA is often used in the financial industry, I used nested loops in VBA to analyze alternative energy stocks and automate calculations. My objective was to find out if the manufacturer of silicon wafer panels, DAQO(DQ) is a good investment choice for my friend's parents. After running my analysis, I refactored the code to make it more efficient. 
 
 ## **Results**
-### ![alt text]
+
+### ![alt text](stockdata.PNG)
+
 ### ![alt text]
 ### ![alt text] -speed screenshot
 ### ![alt text] - speed screenshot
