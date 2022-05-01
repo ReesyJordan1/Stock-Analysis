@@ -7,9 +7,9 @@
 ## **Results**
 
 ### ![alt text](stockdata.PNG)
-
+### ![alt text] -code
+### ![alt text] - refactored code
 ### ![alt text](StockAnalysisResults.PNG) 
-
 ### ![alt text] -speed screenshot
 ### ![alt text] - speed screenshot
 The analysis is well described with screenshots and code (4 pt).
